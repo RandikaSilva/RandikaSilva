@@ -1,6 +1,6 @@
 [![MasterHead](https://scontent.fcmb11-1.fna.fbcdn.net/v/t1.6435-9/131091442_3197075580397083_3605665372921068641_n.png?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=JKBhskMMhFQQ7kNvgGqRabE&_nc_ht=scontent.fcmb11-1.fna&oh=00_AYD9u0hdEKqnL5z_of9gZyji9Wb1yy58iG8fs54wiPMBnQ&oe=667EFDAD)](https://randikasilva.io)
 <h1 align="center">Hi 👋, I'm Lasitha Randika</h1>
-<h3 align="center">Full Stack Developer | Experienced .NET and Azure Developer with React JS and NodeJS Proficiency | Coventry University Alumnus</h3>
+<h3 align="center">Full Stack Developer | Experienced .NET and Azure Developer with React JS, Flutter and NodeJS Proficiency | Coventry University Alumnus</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randikasilva&label=Profile%20views&color=0e75b6&style=flat" alt="randikasilva" /> </p>
